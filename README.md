@@ -1,1 +1,1 @@
-Jalankan dengan Main.java
+buka Sudoku->src->jalankan Main.java
